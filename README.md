@@ -2,7 +2,7 @@
 
 ## Overview
 
-This ML project, aims at developing a classification model for the problem of predicting credit card frauds using machine learning algorithms and artificial neural networks.
+This ML project, aims at developing a classification model for the problem of predicting credit card frauds using machine learning algorithms.
 
 *****************************
 
